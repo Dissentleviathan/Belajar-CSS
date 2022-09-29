@@ -1,0 +1,50 @@
+h1 {
+    font-family: Courier New;
+    color: #55FF33;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+body {
+    font-family: Courier New;
+    background-color: black;
+    color: #55FF33;
+
+}
+
+table {
+    border: 1px, solid black;
+    text-align: center;
+}
+
+tr :hover {
+    background: #ffaaff;
+}
+
+th {
+    padding: 2px 6px;
+    border: 1px solid #55FF33;
+    background: #55FF33;
+    color: white;
+}
+
+td {
+    padding: 2px 6px;
+    border: 1px solid #55FF33;
+}
+
+p {
+    font-family: Courier New;
+    color: #55FF33;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
